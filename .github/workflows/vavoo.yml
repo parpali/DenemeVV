@@ -28,7 +28,7 @@ jobs:
         run: pip install requests
 
       - name: Alive 1
-        run: curl https://okincepe-deneme.hf.space/
+        run: curl https://okincepe-tsparpalivv.hf.space/
 
       - name: Vavoo Tr
         run: python vavoo.py
